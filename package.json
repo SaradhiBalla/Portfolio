@@ -1,0 +1,24 @@
+{
+    "name": "balla-saradhi-portfolio",
+    "version": "1.0.0",
+    "description": "Professional portfolio website for Balla Saradhi - Computer Science Student & Developer",
+    "main": "index.html",
+    "scripts": {
+        "start": "python -m http.server 8000",
+        "dev": "python -m http.server 8000"
+    },
+    "keywords": [
+        "portfolio",
+        "web-development",
+        "computer-science",
+        "student",
+        "developer"
+    ],
+    "author": "Balla Saradhi",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/balla-saradhi/portfolio"
+    },
+    "homepage": "https://balla-saradhi.github.io/portfolio"
+}
